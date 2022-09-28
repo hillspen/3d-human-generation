@@ -1,0 +1,2 @@
+model_checkpoint_path: "Discriminator_Ckptdisc4"
+all_model_checkpoint_paths: "Discriminator_Ckptdisc4"
